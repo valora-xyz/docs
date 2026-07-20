@@ -34,7 +34,7 @@
     "@tsconfig/docusaurus": "^2.0.9",
     "@valora/prettier-config": "^0.0.1",
     "firebase-tools": "^13.35.1",
-    "prettier": "^3.8.4",
+    "prettier": "^3.9.5",
     "typescript": "^5.9.3"
   },
   "browserslist": {
